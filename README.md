@@ -1,8 +1,11 @@
-# CollegeKid
-College-based RPG Text Adventure Game
-Setup: 
-      1) Clone repo into a file directory
-      2) Compile all files
-      3) Run CollegeKid
-      4) Enjoy!!!
+## CollegeKid
+#College-based RPG Text Adventure Game
 
+- [Quick start](#quick-start)
+- [Bugs and feature requests](#bugs-and-feature-requests)
+- [Documentation](#documentation)
+- [Contributing](#contributing)
+- [Community](#community)
+- [Versioning](#versioning)
+- [Creators](#creators)
+- [Copyright and license](#copyright-and-license)
